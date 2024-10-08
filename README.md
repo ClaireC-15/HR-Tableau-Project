@@ -1,6 +1,6 @@
 # HR-Tableau-Dashboard Overview
 
-![Dashboard Overview](https://github.com/ClaireC-15/Revenue-Metrics-Analysis/blob/95282f0260ae78fb1472228f0f948bd36581eb75/img/Dashboard.JPG)
+![Dashboard Overview](https://github.com/ClaireC-15/HR-Tableau-Project/blob/0a03b30148c23d3b83fcab70b4f61c13479e8ea1/img/HR%201.webp)
 
 ## About the project
 This project is a step-by-step learning experience in building dashboard projects using Tableau which I replicated from 
